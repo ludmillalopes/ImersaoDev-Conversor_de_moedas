@@ -1,2 +1,2 @@
-# ImersaoDev-Conversor_de_moedas
-ImersãoDev Aula 1 - Conversor de moedas
+# ImersaoDev_Alura-Conversor_de_moedas
+Conversor de moedas criado na ImersãoDev da Alura - Aula 1. 
